@@ -2,7 +2,7 @@
 
 ## ENTREGAS:
 
-[N° 1](https://github.com/NinaEncinosa/MONGODB/blob/main/actividad1.md): </br> 
+[Link a actividad N° 1](https://github.com/NinaEncinosa/MONGODB/blob/main/actividad1.md): </br> 
    1. Instalar MongoDB en ambiente local. </br> 
    2. Conectarse a MongoDB vía CLI. </br> 
    3. Crear una nueva base de datos llamada futbolfifa. </br> 
@@ -11,7 +11,7 @@
    6. Listar todos los documentos de la collection players. </br> 
    7. Crear otras collections con documentos (ej. teams, games, etc). </br> 
    
-[N° 2](https://github.com/NinaEncinosa/MONGODB/blob/main/actividad2.md): </br> 
+[Link a actividad N° 2](https://github.com/NinaEncinosa/MONGODB/blob/main/actividad2.md): </br> 
   1.  Crear una nueva base de datos de un sistema de streaming de video (ej. Netflix, Flow, Amazon Prime) que permita almacenar movies.  </br> 
   2.  Para cada movie, se debería guardar información como título (String), year (Number), rating (Number, entre 1.0 y 5.0),   </br> 
       genre (String), description (String), actors (Array<String>), country (String), income (Number), duration (Number).  </br> 
@@ -23,7 +23,7 @@
   8.  Buscar todas las películas de acción con un buen rating (ej. > 4.0)  </br> 
       que hayan salido los últimos 2 años.  </br> 
       
-[N° 3](https://github.com/NinaEncinosa/MONGODB/blob/main/actividad3.md): </br> 
+[Link a actividad N° 3](https://github.com/NinaEncinosa/MONGODB/blob/main/actividad3.md): </br> 
   1.  Utilizar la misma base de datos de películas e insertar varias películas con distinto contenido. </br> 
   2.  Listar todas las películas del año 2018. </br> 
   3.  Listar las 10 primeras películas de Hollywood. </br> 
